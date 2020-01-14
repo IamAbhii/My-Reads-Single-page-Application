@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "netlify-cli": "^2.29.0",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "^2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -23,5 +24,17 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamAbhii/My-Reads-Single-page-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamAbhii/My-Reads-Single-page-Application/issues"
+  },
+  "homepage": "https://5e1c9eb373a2a7afd9cc8da2--myreadsreactapp.netlify.com"
 }
